@@ -1,0 +1,18 @@
+{
+    "Header" : {
+        "language" : "language"
+    },
+    "Main" : {
+        "HomePage" : {
+            "title" : "Online photo converter",
+            "miniTitle" : "Convert your photo to any format",
+            "UpLoad" : "Choose File",
+            "Download" : "Download",
+            "Type" : "Format not specified !"
+        },
+        "NotFoundPage" : {
+            "NotFound" : "Not found page",
+            "Home" : "Home"
+        }
+    }
+}
